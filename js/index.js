@@ -1,3 +1,5 @@
+alert ("oi, manda o pix")
+
 
 const botoesCarrossel = document.querySelectorAll(".botao");
 const imagens = document.querySelectorAll(".imagem");
