@@ -1,4 +1,4 @@
-alert ("oi, manda o pix")
+alert ("oi, manda o pix \nnão limpei o patio a toa");
 
 
 const botoesCarrossel = document.querySelectorAll(".botao");
