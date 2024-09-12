@@ -1,5 +1,3 @@
-alert (" oi, manda o pix \n não limpei o patio a toa");
- 
 
 const botoesCarrossel = document.querySelectorAll(".botao");
 const imagens = document.querySelectorAll(".imagem");
